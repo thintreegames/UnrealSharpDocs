@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: .gitbook/assets/download (2).png
-coverY: 204
+coverY: 70.52513966480447
 layout:
   cover:
     visible: true
