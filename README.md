@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/QRtkmXDfUP.png
-coverY: 0
+cover: .gitbook/assets/download (2).png
+coverY: 204
 layout:
   cover:
     visible: true
