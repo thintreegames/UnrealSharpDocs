@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/download (2).png
+cover: .gitbook/assets/cover.png
 coverY: 70.52513966480447
 layout:
   cover:

@@ -1,6 +1,6 @@
 ---
-description: Making your first basic script in UnrealSharp
 icon: scroll
+description: Making your first basic script in UnrealSharp
 layout:
   title:
     visible: true
@@ -48,6 +48,6 @@ public class AMyTestClass : AActor
 
 Now go back to Unreal Engine and it should compile your code and your class should be able to be found in the editor.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unreal_class_wizard.png" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;<a href="#debugging" id="debugging"></a>

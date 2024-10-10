@@ -1,6 +1,6 @@
 ---
-description: Package and Export Your Game
 icon: file-export
+description: Package and Export Your Game
 layout:
   title:
     visible: true
@@ -32,13 +32,13 @@ You can easily package your C# project and runtime directly through the Unreal E
 
 In the editor, navigate to the **UnrealSharp** toolbar located at the top of the viewport, and click on **Package Project**.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/packagetool.png" alt=""><figcaption></figcaption></figure>
 
 A file explorer dialog will appear, prompting you to choose the directory where your project will be packaged. Select the **root folder** of your packaged project. This is the folder containing your **.exe** file.
 
 After selecting the correct folder, you should see the packaging process start.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/packaging.png" alt=""><figcaption></figcaption></figure>
 
 Once the prompt disappears, the packaging is complete, and your game is ready to be launched.
 
